@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Projeto Calculadora</title>
+        <title>Calculadora Simples</title>
     </head>
     <body>
         <h1>Calculadora</h1>
