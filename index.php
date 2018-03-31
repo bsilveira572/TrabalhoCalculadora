@@ -9,10 +9,10 @@
             <input type="text" step="0.001" name="valor1" size='20'><br><br>
             <input type="text" step="0.001" name="valor2" size='20'><br><br>
             <select name="operacao">
-                <option value='somar'>Somar</option>
-                <option value='subtrair'>Subtrair</option>
-                <option value='multiplicar'>Multiplicar</option>
-                <option value='dividir'>Dividir</option>
+                <option value='somar'>Soma</option>
+                <option value='subtrair'>Subtração</option>
+                <option value='multiplicar'>Multiplicação</option>
+                <option value='dividir'>Divisão</option>
             </select><br><br>
             <input type="submit" value="Calcular">
         </form>
