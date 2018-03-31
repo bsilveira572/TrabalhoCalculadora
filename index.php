@@ -4,7 +4,7 @@
         <title>Calculadora Simples</title>
     </head>
     <body>
-        <h1>Calculadora</h1>
+        <h1>Calculadora PHP</h1>
         <form method="post" action="index.php">
             <input type="text" step="0.001" name="valor1" size='23'><br><br>
             <input type="text" step="0.001" name="valor2" size='23'><br><br>
